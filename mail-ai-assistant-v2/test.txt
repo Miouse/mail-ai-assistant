@@ -1,0 +1,163 @@
+(.venv) C:\Users\larai\Documents\mail-ai-assistant>python main.py --model deepseek-r1
+=== Assistant mail IA - prototype ===
+[INFO] Nombre d'emails analysés demandé : 20
+[INFO] Modèle IA utilisé : deepseek-r1
+[INFO] Filtre emails : all
+[INFO] Connexion à imap.gmail.com:993 ...
+[INFO] Filtre IMAP utilisé : ALL
+
+== Derniers emails (filtrés) ==
+
+--- Email #1 ---
+De    : Google <no-reply@accounts.google.com>
+Sujet : Alerte de sécurité
+Date  : Tue, 02 Dec 2025 01:15:12 GMT
+ Si vous n'avez pas généré ce mot de passe pour...otre compte
+
+--- Email #2 ---
+De    : Google <no-reply@accounts.google.com>
+Sujet : Validation en deux étapes activée
+Date  : Tue, 02 Dec 2025 01:13:50 GMT
+ v...e compte Google jtiti5263@gmail.com est à présent protégé par la
+
+--- Email #3 ---
+De    : Google <no-reply@accounts.google.com>
+Sujet : Alerte de sécurité
+Date  : Tue, 02 Dec 2025 01:13:48 GMT
+ Les codes pour vous connecter à votre compte s...deux étapes
+
+--- Email #4 ---
+De    : Google <no-reply@accounts.google.com>
+Sujet : Alerte de sécurité
+Date  : Tue, 02 Dec 2025 01:05:50 GMT
+ Nous avons détecté une nouvelle connexion à votre compte Google depuis...
+
+--- Email #5 ---
+De    : "Instagram" <posts-recaps@mail.instagram.com>
+Sujet : _ne_x_o_, catch up on moments you've missed
+Date  : Tue, 25 Nov 2025 06:30:37 -0800
+Extrait : Facebook stevoclub , albparis_ and others posted something new. Catch up on Instagram stevoclub , albparis_ and others posted something new. Open Inst...
+
+--- Email #6 ---
+De    : "Instagram" <no-reply@mail.instagram.com>
+Sujet : _ne_x_o_, catch up on moments you've missed
+Date  : Tue, 18 Nov 2025 04:34:33 -0800
+Extrait : Facebook instagram , hugodecrypte and others posted something new. Catch up on Instagram instagram , hugodecrypte and others posted something new. Ope...
+
+--- Email #7 ---
+De    : Google Gemini <google-gemini-noreply@google.com>
+Sujet : 📷 Réalisez des selfies impossibles avec Gemini
+Date  : Fri, 26 Sep 2025 16:10:20 -0700
+ Combinez des éléments cré... meilleur modèle de traitement d'images.
+
+--- Email #8 ---
+De    : Google Gemini <google-gemini-noreply@google.com>
+Sujet : jules, créez des histoires illustrées et bien plus encore
+Date  : Wed, 10 Sep 2025 03:07:50 -0700
+ Gemini<http...  d'évoluer. Découvrez les dernières nouveautés.ies
+
+--- Email #9 ---
+De    : Google Gemini <google-gemini-noreply@google.com>
+Sujet : Changements importants dans les applications Gemini
+Date  : Wed, 13 Aug 2025 20:27:20 -0700
+ Pour vous aider à gérer vos données ...oraires et de nouveaux paramètres de
+
+--- Email #10 ---
+De    : Google Gemini <google-gemini-noreply@google.com>
+Sujet : jules, découvrez les nouvelles fonctionnalités annoncées à Google I/O
+Date  : Fri, 27 Jun 2025 18:11:31 -0700
+ Gemini, vous profitez d'un assistant IA encore ...nibles ! Avec l'appli
+
+--- Email #11 ---
+De    : "Instagram" <no-reply@mail.instagram.com>
+Sujet : Meta Privacy Policy update
+Date  : Thu, 5 Jun 2025 21:33:24 -0700
+Extrait : Facebook We’re updating the Meta Privacy Policy to clarify some details. Meta Privacy Policy update Hi _ne_x_o_, We’re updating the Meta Privacy Polic...
+
+--- Email #12 ---
+De    : Google <no-reply@accounts.google.com>
+Sujet : Renforcez la sécurité de votre compte Google
+Date  : Wed, 21 May 2025 18:18:58 GMT
+ Les utilisateurs dis... permettant de nous assurer qu'il s'agit bien de vous
+
+--- Email #13 ---
+De    : Google Gemini <google-gemini-noreply@google.com>
+Sujet : jules, notre modèle d'IA le plus intelligent est désormais disponible
+Date  : Thu, 08 May 2025 11:16:44 -0700
+ une fenêtre de co...s utiliser le modèle 2.5 Pro (experimental). Il intègre
+
+--- Email #14 ---
+De    : Google Gemini <google-gemini-noreply@google.com>
+Sujet : jules, découvrez les nouveautés du mois
+Date  : Wed, 23 Apr 2025 08:59:38 -0700
+ Planification, r...teurs de Gemini devient disponible sans frais pour la
+
+--- Email #15 ---
+De    : "Instagram" <no-reply@mail.instagram.com>
+Sujet : Learn how we’ll use your information as we improve AI at Meta
+Date  : Sun, 20 Apr 2025 12:33:58 -0700
+Extrait : Facebook You can learn more about how we use your information in our Privacy Policy. Learn how we’ll use your information as we improve AI at Meta Hi ...
+
+--- Email #16 ---
+De    : "Instagram" <no-reply@mail.instagram.com>
+Sujet : Your April 13 reels of the day
+Date  : Sun, 13 Apr 2025 11:50:59 -0700
+Extrait : Facebook Check them out and see other reels. Catch up on reels you've missed preparetavalise , fleckinho_ and others shared new reels. Open Instagram ...
+
+--- Email #17 ---
+De    : "Instagram" <no-reply@mail.instagram.com>
+Sujet : Your April 11 reels of the day
+Date  : Fri, 11 Apr 2025 11:11:10 -0700
+Extrait : Facebook Check them out and see other reels. Catch up on reels you've missed lilouestpartoutoff , emilietalk and others shared new reels. Open Instagr...
+
+--- Email #18 ---
+De    : "Instagram" <no-reply@mail.instagram.com>
+Sujet : Your April 8 reels of the day
+Date  : Tue, 8 Apr 2025 12:29:46 -0700
+Extrait : Facebook Check them out and see other reels. Catch up on reels you've missed djaysonkaravane , totocuistot_ and others shared new reels. Open Instagra...
+
+--- Email #19 ---
+De    : "Instagram" <no-reply@mail.instagram.com>
+Sujet : Your April 5 reels of the day
+Date  : Sat, 5 Apr 2025 11:28:50 -0700
+Extrait : Facebook Check them out and see other reels. Catch up on reels you've missed naia_la_star , djaysonkaravane and others shared new reels. Open Instagra...
+
+--- Email #20 ---
+De    : "adeleexarchopoulos on Instagram" <no-reply@mail.instagram.com>
+Sujet : _ne_x_o_, catch up on moments you've missed
+Date  : Sun, 23 Mar 2025 13:01:32 -0700
+Extrait : Facebook adeleexarchopoulos , jessicathivenin and others posted something new. Catch up on Instagram adeleexarchopoulos , jessicathivenin and others p...
+
+== Rapport IA (locale) ==
+
+**Analyse des emails reçus :**
+
+1. **Emails d'Instagram :**
+   - **Type de contenu :** Notifications sur les réels publiés par des utilisateurs, rappels de notifications, explications sur l'utilisation des données pour l'amélioration de l'IA de Meta.
+   - **Fréquence :** Les emails sont regroupés par dates, allant de mi-mars à avril 2025.
+   - **Destination :** L'email est adressé à `_ne_x_o_`, qui semble être un pseudonyme ou une référence à l'utilisateur.
+
+2. **Emails de Google Gemini :**
+   - **Type de contenu :** Newsletters et annonces de nouvelles fonctionnalités (comme Deep Research et Canvas).
+   - **Fréquence :** Les emails sont plus espacés, avec des dates allant du 23 avril au 13 avril 2025.
+   - **Destination :** L'email est adressé à `_ne_x_o_`, avec des appels à l'action pour essayer les nouvelles fonctionnalités.
+
+3. **Caractéristiques communes :**
+   - **Langue :** Les emails sont en anglais, bien que le contenu semble être destiné à un public francophone.
+   - **En-têtes :** Les en-têtes incluent des noms de domaines comme `no-reply@mail.instagram.com` et `google-gemini-noreply@google.com`.
+   - **Informations de contact :** Les emails mentionnent les adresses de la société responsable (Meta Platforms, Inc. et Google Ireland Ltd.).
+
+4. **Questions potentielles :**
+   - L'utilisateur reçoit-il ces emails de manière récurrente ?
+   - A-t-il déjà configuré ses préférences de confidentialité pour ces services ?
+   - Souhaite-t-il s'abonner ou désabonner de certaines notifications ?
+
+**Conseils :**
+- Si vous recevez des emails que vous ne souhaitez plus voir, utilisez l'option d'abonnement pour vous désabonner.
+- Vérifiez vos paramètres de confidentialité pour contrôler comment vos données sont utilisées.
+
+Si vous avez besoin d'une analyse plus détaillée ou d'aide pour gérer ces emails, n'hésitez pas à fournir plus de détails !
+
+OK, on lit les mails, on applique le filtre et on génère un rapport IA pour aider à les lire et les prioriser ✅
+
+(.venv) C:\Users\larai\Documents\mail-ai-assistant>
